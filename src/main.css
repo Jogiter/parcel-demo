@@ -1,0 +1,5 @@
+.main {
+  background: url('./images/background.jpg') no-repeat;
+  color: red;
+  display: flex;
+}
