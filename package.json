@@ -12,7 +12,11 @@
   "devDependencies": {
     "autoprefixer": "^7.2.2",
     "babel-preset-env": "^1.6.1",
+    "babel-preset-minify": "^0.2.0",
     "postcss-modules": "^1.1.0",
     "posthtml-img-autosize": "^0.1.1"
+  },
+  "dependencies": {
+    "webpack": "^3.10.0"
   }
 }
